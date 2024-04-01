@@ -1,8 +1,8 @@
-## *For more information, please refer to the subject in the git.*
-
 ## Printf
 
 The Printf project involves creating a custom implementation of the printf function in C, which allows formatted output to be printed to the standard output stream. This project requires understanding of variable argument lists, parsing, and formatting strings according to specifiers.
+
+*For more information, please refer to the subject in the git.*
 
 ### Execution Examples
 
