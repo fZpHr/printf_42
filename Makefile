@@ -23,6 +23,7 @@ SRCS	=	ft_putchar_fd.c \
 	ft_countdigits_unsigned.c \
 	ft_countdigits_base_unsigned.c \
 	ft_printf_check.c \
+	main.c
 	
 OBJTS	=	${SRCS:.c=.o}
 
